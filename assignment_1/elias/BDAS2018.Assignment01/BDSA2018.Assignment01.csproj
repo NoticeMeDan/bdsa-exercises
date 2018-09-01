@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Company>ITU</Company>
+    <Authors>Rasmus Lystrøm, Paolo Tell, Mansooreh Zahedi, and Maria Paasivaara</Authors>
+    <Copyright>Copyright © ITU 2018</Copyright>
+  </PropertyGroup>
+
+</Project>
